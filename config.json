@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "app": "onlyfans",
+  "updated_at": "2026-09-16T08:43:24Z",
+  "webview_url": "https://onlyfans.com",
+  "user_agent": "",
+  "js_enabled": true,
+  "ads_enabled": false,
+  "admob_app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "interstitial_every_n_pages": 3,
+  "latest_version_code": 3,
+  "latest_version_name": "3.0",
+  "force_update": false,
+  "update_message": "A new version is available. Please update to continue.",
+  "apk_url": "https://dl.convrto.xyz/assets/of/OnlyFans.apk",
+  "notice_enabled": false,
+  "notice_text": "",
+  "notice_url": "",
+  "maintenance": false,
+  "maintenance_message": ""
+}
