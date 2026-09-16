@@ -1,0 +1,30 @@
+{
+    "schema": 1,
+    "type": "webview_config",
+    "app": "onlyfans",
+    "version": 20,
+    "generated_at": "2026-09-16T20:26:57+00:00",
+    "config": {
+        "webview_url": "https://onlyfans.com",
+        "user_agent": "",
+        "js_enabled": true,
+        "splash_support_enabled": true,
+        "splash_support_title": "Support Us",
+        "splash_support_message": "A short ad keeps this app free for everyone",
+        "splash_support_cta": "Watch Ad & Continue",
+        "splash_support_url": "https://kriratv.com/",
+        "splash_support_seconds": 10,
+        "splash_support_interval_hours": 0,
+        "splash_support_interval_unit": "hours",
+        "latest_version_code": 3,
+        "latest_version_name": "3.0",
+        "force_update": false,
+        "update_message": "x",
+        "apk_url": "https://dl.convrto.xyz/assets/of/OnlyFans.apk",
+        "notice_enabled": false,
+        "notice_text": "",
+        "notice_url": "",
+        "maintenance": false,
+        "maintenance_message": "x"
+    }
+}
