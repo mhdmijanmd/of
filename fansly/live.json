@@ -1,8 +1,8 @@
 {
-    "version": 1,
-    "sha256": "941a858a5fbcde19c343f19e7ad312e71978e264ec4b78f496c91ddf748397be",
-    "signature": "ed25519:17XEBtYNJ/iTC6RmlQ0zKLChdznatTgxVR+0pJnquEk1sYf77KJC6b8eCIsctMeyJetpagWoCly0jcT9t7Z5Ag==",
-    "bytes": 1103,
-    "published_at": "2026-09-18T16:08:22+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/mhdmijanmd/of@e22c117/fansly/v1.json"
+    "version": 2,
+    "sha256": "71ecc605b6f771ef4983fd57d690b9e4a65185b8c0b38e8c33af2c989325124d",
+    "signature": "ed25519:zvw6SSQlk8v6KOZ4zZnzvWZY8H1yFcuYLTjMRv803Sacnl8yzjIAk8dmFbL1KR4H9SAYRkTLw8abpF1MauJPDw==",
+    "bytes": 1144,
+    "published_at": "2026-09-18T16:59:40+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/mhdmijanmd/of@6df0886/fansly/v2.json"
 }
