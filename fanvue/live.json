@@ -1,8 +1,8 @@
 {
-    "version": 4,
-    "sha256": "0532d9eba422a08603367727a3fabc3afc4ef4077450a053c74b6963e78b6420",
-    "signature": "ed25519:xF4r1UPXzWtWgBHAZzie52Aohfba/FmcYlrq/L8sYL4fb+n6jIxlpvpQ+oU2W4Rpe2Q2fGDr4lxxNAEY8VboBQ==",
-    "bytes": 1144,
-    "published_at": "2026-09-18T19:51:37+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/mhdmijanmd/of@ee1bf93/fanvue/v4.json"
+    "version": 5,
+    "sha256": "b69c97cc89d2d2f79df7ceee1c0da3c22c6f6a531199f5c7aa8790dadf71ef59",
+    "signature": "ed25519:pAINCy5r/KdAiUzLz7k6ssVYLjh/FvuCwMoC7aMWzVWrGeVeEEDohXW7iwWma54Zz0TIZdkVQ4/x5BM0GJqLAA==",
+    "bytes": 1140,
+    "published_at": "2026-09-18T19:53:52+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/mhdmijanmd/of@40d500f/fanvue/v5.json"
 }
