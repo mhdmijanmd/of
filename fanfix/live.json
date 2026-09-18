@@ -1,8 +1,8 @@
 {
-    "version": 4,
-    "sha256": "a273eda7812edca235ba46fc3bc99d54ac874abe9def23e960619567a0bf2f13",
-    "signature": "ed25519:939u4ZOgt5dltutFDSz0qhdfflwSkxWchylU+NYIbDqiK127f0kFd7tnrgLnamGl6Ig6Xvwda1EQKj2Fw/jXBw==",
-    "bytes": 1144,
-    "published_at": "2026-09-18T16:56:22+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/mhdmijanmd/of@f282ab7/fanfix/v4.json"
+    "version": 5,
+    "sha256": "64b545d4043491bfd1e8b842ca7c3a72cb72b56ec1fc34ff2770890d16af6476",
+    "signature": "ed25519:pwzSVAkS1VRZ/RRKWbM2ZhNonmDPLkKFKEgBWpg+6B83dmY6CDT15tNRkvA6QBHa7yu8g4JXgyMYRkn/lpqEDw==",
+    "bytes": 1143,
+    "published_at": "2026-09-18T16:56:37+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/mhdmijanmd/of@1b393d7/fanfix/v5.json"
 }
